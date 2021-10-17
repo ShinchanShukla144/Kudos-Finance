@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kudos-Finance/static/css/main.b091ba77.chunk.css",
+    "main.js": "/Kudos-Finance/static/js/main.20f4a171.chunk.js",
+    "main.js.map": "/Kudos-Finance/static/js/main.20f4a171.chunk.js.map",
+    "runtime-main.js": "/Kudos-Finance/static/js/runtime-main.1bde55a4.js",
+    "runtime-main.js.map": "/Kudos-Finance/static/js/runtime-main.1bde55a4.js.map",
+    "static/js/2.bda531cf.chunk.js": "/Kudos-Finance/static/js/2.bda531cf.chunk.js",
+    "static/js/2.bda531cf.chunk.js.map": "/Kudos-Finance/static/js/2.bda531cf.chunk.js.map",
+    "static/js/3.d36502ac.chunk.js": "/Kudos-Finance/static/js/3.d36502ac.chunk.js",
+    "static/js/3.d36502ac.chunk.js.map": "/Kudos-Finance/static/js/3.d36502ac.chunk.js.map",
+    "index.html": "/Kudos-Finance/index.html",
+    "static/css/main.b091ba77.chunk.css.map": "/Kudos-Finance/static/css/main.b091ba77.chunk.css.map",
+    "static/js/2.bda531cf.chunk.js.LICENSE.txt": "/Kudos-Finance/static/js/2.bda531cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bde55a4.js",
+    "static/js/2.bda531cf.chunk.js",
+    "static/css/main.b091ba77.chunk.css",
+    "static/js/main.20f4a171.chunk.js"
+  ]
+}
