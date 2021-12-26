@@ -7,7 +7,7 @@ const App = () => {
     <div className="App">
       <h1>
           hellllllllllooooooooooooooo
-      <h1/>
+      </h1>
     </div>
     
   );
